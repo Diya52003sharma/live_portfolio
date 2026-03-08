@@ -16,7 +16,6 @@ import {
   SiPostman,
   SiNextdotjs,
   SiDocker,
-  SiJenkins,
 } from "react-icons/si";
 
 import {
@@ -41,7 +40,6 @@ export default function Skills() {
     { name: "Next.js", icon: <SiNextdotjs /> },
     { name: "Docker", icon: <SiDocker  /> },
     { name: "Linux", icon: <FaLinux /> },
-    { name: "Jenkins", icon: <SiJenkins /> },
   ];
 
   return (
