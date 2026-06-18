@@ -9,14 +9,14 @@ const projects = [
     title: "Fitzen",
     image: img1,
     description: "Fitness website built using modern UI and responsive design.",
-    link: "http://13.233.230.15/",
+    link: "http://13.203.75.40:5000/",
     codelink: "https://github.com/jassalamar05/Protfolio"
   },
   {
     title: "Mechanic",
     image: img2,
     description: "Online mechanic booking system with backend API integration.",
-    link: "http://13.233.111.214:5000/",
+    link: "http://13.203.75.40:5001/",
     codelink: "https://github.com/jassalamar05/Protfolio"
   },
   {
