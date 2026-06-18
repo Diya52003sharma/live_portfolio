@@ -29,7 +29,7 @@ export default function Footer() {
             <div className="h-10 w-10 rounded-full bg-purple-600 flex items-center justify-center font-bold text-lg">
               A
             </div>
-            <h2 className="text-2xl font-semibold">Amardeep Singh</h2>
+            <h2 className="text-2xl font-semibold">Diya Sharma</h2>
           </div>
 
         <div className="scroll-smooth">
@@ -44,7 +44,7 @@ export default function Footer() {
         </div>
 
           <p className="text-sm text-gray-300">
-            © 2026 Amardeep.
+            © 2026 Diya.
           </p>
         </div>
       </footer>
